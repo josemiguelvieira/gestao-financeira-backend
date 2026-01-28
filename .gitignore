@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# ===== Variáveis locais (NUNCA subir) =====
+src/main/resources/application-local.properties
